@@ -10,7 +10,7 @@ We must decide among many models, such as Role-Based Access Control, Attribute-B
 
 ## **Decision:**
 
-We have decided to implement a Role-Based Access Control (RBAC) system for managing permissions within the app. 
+We have decided to implement a **Role-Based Access Control (RBAC)** system for managing permissions within the app. 
 
 ## **Rationale:** 
 
